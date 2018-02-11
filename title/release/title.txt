@@ -1,0 +1,8 @@
+-*-   Title 1.0   *   Copyright (c) gazlan, 2011   -*-
+
+Create/Replace HTML <title> tag with first occurrent of <h1>content</h1>
+
+Usage: title.com wildcards [ > LOG.TXT ]
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
